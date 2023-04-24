@@ -1,3 +1,2 @@
 Hola este es una clase
-
-	Editrado desde el master
+Arreglando conflicto de la segunda línea
