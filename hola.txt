@@ -1,2 +1,4 @@
 Hola este es una clase
 Arreglando conflicto de la segunda línea
+
+Agregando tercera línea
