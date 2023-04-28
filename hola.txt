@@ -5,3 +5,8 @@ Agregando tercera línea
 
 editando esta línea desde el remoto
 ##Esta línea debe estar aquí
+
+
+
+
+La Revolución Industrial o Primera Revolución Industrial es el proceso de transformación económica, social y tecnológica que se inició en la segunda mitad del siglo xviii en el Reino de Gran Bretaña, que se extendió unas décadas después a gran parte de Europa occidental y América Anglosajona, y que concluyó entre 1820 y 1840. Durante este periodo se vivió el mayor conjunto de transformaciones económicas, tecnológicas y sociales de la historia de la humanidad desde el Neolítico,1​ que vio el paso desde una economía rural basada fundamentalmente en la agricultura y el comercio a una economía de carácter urbano, industrializada y mecanizada
